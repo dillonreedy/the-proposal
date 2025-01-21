@@ -2,6 +2,7 @@
   "name": "the-proposal-1",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://dillonreedy.github.io/the-proposal",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",
